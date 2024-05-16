@@ -1,0 +1,19 @@
+.items {
+    background-color: #ffb6c1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#paragraph2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.paragraph3 {
+    font-size: 24px;
+}
+
+#paragraph4 {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
